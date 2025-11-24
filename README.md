@@ -4,6 +4,12 @@ Built by K-N-A
 
 ![burn](https://github.com/selamat590/mamat-gunshop/blob/main/burnice.gif)
 ## 🚀 Fitur
+- ➕ Tambah Barang
+- ✏️ Edit Barang
+- 🗑️ Hapus Barang
+- 🔍 Cari Barang
+- 📈 Statistik
+- 📄 Laporan
 - ✅ Frontend
   tampilan menarik
   sudah di sediakan untuk copy code untuk mengubah tampilan
@@ -22,7 +28,15 @@ Built by K-N-A
 ## 📁 struktur folder
 ![struktur](https://github.com/selamat590/mamat-gunshop/blob/main/struktur.png)
 
-## 📦 Prerequisites
-- laragon v6+
-  
+## 🛠️ Prerequisites
+- 🗄️ laragon v6+
+- 🐘 PHP
+- 🎨 Bootstrap
+
+# 🏬 Preview web
+- Admin
+  ![admin](https://github.com/selamat590/mamat-gunshop/blob/main/preview-admin.png)
+
+- User
+  ![user](https://github.com/selamat590/mamat-gunshop/blob/main/preview-user.png)
   ![jane](https://github.com/selamat590/mamat-gunshop/blob/main/jane-doe-rat-ezgif.com-gif-maker1.gif)
