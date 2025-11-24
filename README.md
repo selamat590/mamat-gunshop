@@ -15,6 +15,10 @@ Built by K-N-A
   
 ![kode](https://github.com/selamat590/mamat-gunshop/blob/main/kode.png)
 
+- 📢 relasi :
+
+  ![relasi]()
+
 ## 📁 struktur folder
 ![struktur](https://github.com/selamat590/mamat-gunshop/blob/main/struktur.png)
 
