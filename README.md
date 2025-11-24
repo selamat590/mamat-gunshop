@@ -17,7 +17,7 @@ Built by K-N-A
 
 - 📢 relasi :
 
-  ![relasi]()
+  ![relasi](https://github.com/selamat590/mamat-gunshop/blob/main/realasi.png)
 
 ## 📁 struktur folder
 ![struktur](https://github.com/selamat590/mamat-gunshop/blob/main/struktur.png)
